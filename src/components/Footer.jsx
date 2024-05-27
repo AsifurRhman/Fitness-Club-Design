@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        All rights deserved || Fitness club
+        All rights reserved || Fitness club
     </footer>
   )
 }    
