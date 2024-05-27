@@ -3,9 +3,9 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By CodeWithZeeshu
+        All rights deserved || Fitness club
     </footer>
   )
-}
+}    
 
 export default Footer
